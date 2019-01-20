@@ -2,7 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Sample Tic Tac Toe Display screenshot:
+
+<img width="390" alt="screen shot 2019-01-20 at 19 15 17" src="https://user-images.githubusercontent.com/35367494/51443911-2e857780-1ce8-11e9-940b-7071dd0f9737.png">
 
 ### `npm start`
 
